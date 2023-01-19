@@ -3,7 +3,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=128CD2&center=true&vCenter=true&width=435&lines=Web+Developer;Full+Stack+developer;Web+designer;%40Flyingcodd;Database+developer" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">Me gusta codificar, diseñar, innovar y experimentar. Soy una persona entusiasta a la que le encanta asumir nuevos retos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y positivismo. xde</h4>
+<h4 align="center">Me gusta codificar, diseñar, innovar y experimentar. Soy una persona entusiasta a la que le encanta asumir nuevos retos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y positivismo.</h4>
 
 <h4 align="center">xde</h4>
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Candida's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>-->
