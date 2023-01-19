@@ -165,7 +165,7 @@
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-  <a href="https://www.flyingcodd.ml/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="https://www.flyingcodd.ml/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:181238@unamba.ed.pe"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/flyingcodd"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/jhon-franklin-ramero-ramos-46b455202"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
