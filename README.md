@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Franklin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p>
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=128CD2&center=true&vCenter=true&width=435&lines=Web+Developer;Computer+science+and+systems+student;Full+Stack+developer;Web+designer;%40Flyingcodd)](https://git.io/typing-svg)
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=128CD2&center=true&vCenter=true&width=435&lines=Web+Developer;Computer+science+and+systems+student;Full+Stack+developer;Web+designer;%40Flyingcodd" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <h4 align="center">Me gusta codificar, diseñar, innovar y experimentar. Soy una persona entusiasta a la que le encanta asumir nuevos retos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y positivismo.</h4>
