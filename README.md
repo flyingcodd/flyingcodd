@@ -14,7 +14,7 @@
 
 ## ⚡ My Projects
 
-<p aling="left"> ✔️  Angular + Express js + Mysql: <a href="https://github.com/flyingcodd/api-mysql-express" target="_blank">Empleos Abancay <a/></p>
+<p aling="left"> ✔️  Angular + Express js + Mysql: <a href="https://github.com/flyingcodd/EmpleosAbancay" target="_blank">Empleos Abancay <a/></p>
 <p aling="left"> ✔️  Django + Mysql: <a href="https://github.com/flyingcodd/test-web" target="_blank"> Test Vocacional <a/></p>
 <p aling="left"> ✔️  Laravel + Mysql: <a href="https://github.com/flyingcodd/venta_helados_g3" target="_blank"> Venta de Helados <a/></p>
 	
