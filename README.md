@@ -17,8 +17,8 @@
 <p aling="left"> ✔️  Angular + Express js + Mysql: <a href="https://github.com/flyingcodd/EmpleosAbancay" target="_blank">Empleos Abancay <a/></p>
 <p aling="left"> ✔️  Django + Mysql: <a href="https://github.com/flyingcodd/test-web" target="_blank"> Test Vocacional <a/></p>
 <p aling="left"> ✔️  Laravel + Mysql: <a href="https://github.com/flyingcodd/venta_helados_g3" target="_blank"> Venta de Helados <a/></p>
-<p aling="left"> ✔️  React +  Express js + Mysql: <a href="#" > Panel de control de Empleos abancay (proximamente)<a/></p>
-<p aling="left"> ✔️  Floreria Ykevana: <a href="https://flyingcodd.github.io/floreriaYkevana/" >Floreria Ykevana (En curso)<a/></p>
+<p aling="left"> ✔️  React +  Express js + Mysql: <a href="#" target="_blank"> Panel de control de Empleos abancay (proximamente)<a/></p>
+<p aling="left"> ✔️  Floreria Ykevana: <a href="https://flyingcodd.github.io/floreriaYkevana/" target="_blank">Floreria Ykevana (En curso)<a/></p>
 	
 <br/>
 
