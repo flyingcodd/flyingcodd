@@ -5,7 +5,8 @@
 <hr/>
 <h4 align="center">Me gusta codificar, diseñar, innovar y experimentar. Soy una persona entusiasta a la que le encanta asumir nuevos retos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y positivismo.</h4>
 
-<h4 align="center">xde</h4>
+<h4 align="center"><a href='https://flyingcodd.me' target='_blank'>https://flyingcodd.me</a></h4>
+
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Candida's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>-->
 
 <!--## 🔥 Streak Stats
